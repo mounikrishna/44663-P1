@@ -7,3 +7,5 @@ author : Mouni Krishna Atluri
 
 3. The "totalAmount" method is used to calculate the total amount to paid by the movie watcher.
 
+output screenshot:
+![screenshot](https://github.com/mounikrishna/44663-P1/blob/master/Screenshot%20(99).png)
